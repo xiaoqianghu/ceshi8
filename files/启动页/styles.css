@@ -19,7 +19,7 @@
   width:375px;
   height:667px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(102, 204, 51, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -74,4 +74,32 @@
   top:0px;
   width:129px;
   white-space:nowrap;
+}
+#u4_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4 {
+  position:absolute;
+  left:112px;
+  top:282px;
+  width:140px;
+  height:40px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:136px;
+  word-wrap:break-word;
 }
